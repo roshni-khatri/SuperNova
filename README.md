@@ -140,7 +140,7 @@
         <a href="#">New Arrivals</a>
         <a href="#">Contact</a>
     </nav>
-</header>
+</header>I 
 
 <section class="hero">
     <h2>Shine Like A SuperNova</h2>
@@ -179,4 +179,4 @@
 </footer>
 
 </body>
-</html>
+</html> 
